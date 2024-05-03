@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{ background-color: rgb(37, 34, 34);}
+.wrap{
+    margin:auto;
+    background-color: gray;
+    border: 10px solid black;
+    width: 600px;
+    margin-top: 10%;
+}
